@@ -1,0 +1,9 @@
+{"vcs1":{"timestamp_begin":1711066743.124143817, "rt":0.87, "ut":0.48, "st":0.31}}
+{"vcselab":{"timestamp_begin":1711066744.083584494, "rt":0.85, "ut":0.55, "st":0.25}}
+{"link":{"timestamp_begin":1711066744.997192023, "rt":0.53, "ut":0.15, "st":0.36}}
+{"SNPS_VCS_INTERNAL_ROOT_START_TIME": 1711066742.344406187}
+{"VCS_COMP_START_TIME": 1711066742.344406187}
+{"VCS_COMP_END_TIME": 1711066745.625953141}
+{"VCS_USER_OPTIONS": "-q -nc-sverilog -sverilog Grader.sv library.sv"}
+{"vcs1": {"peak_mem": 338548}}
+{"stitch_vcselab": {"peak_mem": 238992}}
